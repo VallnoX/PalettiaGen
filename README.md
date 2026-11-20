@@ -1,0 +1,2 @@
+# PalettiaGen
+Color palette generator
